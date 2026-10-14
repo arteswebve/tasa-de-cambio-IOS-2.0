@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "TasaCambio 2.0 iOS",
+    "slug": "tasacambio-ve",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./app/src/main/res/drawable/ic_launcher_background.xml",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arteswebve.tasacambio",
+      "buildNumber": "1",
+      "infoPlist": {
+        "UIStatusBarStyle": "UIStatusBarStyleLightContent"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#000000"
+      },
+      "package": "com.arteswebve.tasacambio",
+      "versionCode": 1
+    },
+    "plugins": []
+  }
+}
