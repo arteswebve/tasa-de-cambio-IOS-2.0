@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TasaCambio 2.0 IOS</string>
+    <string name="app_brand_developer">Desarrollada por ArtesWebVE</string>
+    <string name="app_brand_url">https://arteswebve.com/</string>
+    <string name="widget_title">TasaCambio VE Widget</string>
+    <string name="widget_description">Cotizaciones en vivo BCV y Binance</string>
+</resources>

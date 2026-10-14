@@ -1,0 +1,8 @@
+{
+  "name": "TasaCambio 2.0 IOS",
+  "description": "Herramienta profesional de consulta y cálculo de divisas en tiempo real para Venezuela (Dólar BCV, Euro BCV, USDT Binance y VES). Desarrollada por ArtesWebVE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
